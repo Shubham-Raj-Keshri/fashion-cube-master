@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fashion-cube-master/static/css/main.7667dc70.css",
+    "main.js": "/fashion-cube-master/static/js/main.5f3dc37c.js",
+    "static/media/deal_ofthe_week.png": "/fashion-cube-master/static/media/deal_ofthe_week.003082c8a154550d8d59.png",
+    "static/media/empty_cart.png": "/fashion-cube-master/static/media/empty_cart.b2ff8916bf73b6cf29c3.png",
+    "static/media/slider_2.jpg": "/fashion-cube-master/static/media/slider_2.189881db219161ee21de.jpg",
+    "static/media/slider_1.jpg": "/fashion-cube-master/static/media/slider_1.086bc70842d32f38f128.jpg",
+    "static/media/slider_3.jpg": "/fashion-cube-master/static/media/slider_3.07abb2f54c300d6dcdcf.jpg",
+    "static/media/banner_1.jpg": "/fashion-cube-master/static/media/banner_1.384a748b39bc8c458b50.jpg",
+    "static/media/banner_2.jpg": "/fashion-cube-master/static/media/banner_2.4d842bd2b1e615667b30.jpg",
+    "static/media/banner_3.jpg": "/fashion-cube-master/static/media/banner_3.f4890a3f9fe3a094dd97.jpg",
+    "static/media/emptyCart.png": "/fashion-cube-master/static/media/emptyCart.b5fe7e5c334490fa84e5.png",
+    "index.html": "/fashion-cube-master/index.html",
+    "main.7667dc70.css.map": "/fashion-cube-master/static/css/main.7667dc70.css.map",
+    "main.5f3dc37c.js.map": "/fashion-cube-master/static/js/main.5f3dc37c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7667dc70.css",
+    "static/js/main.5f3dc37c.js"
+  ]
+}
